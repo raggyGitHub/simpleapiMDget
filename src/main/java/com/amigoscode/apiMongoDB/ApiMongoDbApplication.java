@@ -1,5 +1,9 @@
 package com.amigoscode.apiMongoDB;
 
+import com.amigoscode.apiMongoDB.model.Adress;
+import com.amigoscode.apiMongoDB.model.Gender;
+import com.amigoscode.apiMongoDB.model.Student;
+import com.amigoscode.apiMongoDB.repository.StudentRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

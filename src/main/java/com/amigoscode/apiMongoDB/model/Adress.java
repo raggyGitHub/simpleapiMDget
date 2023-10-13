@@ -1,4 +1,4 @@
-package com.amigoscode.apiMongoDB;
+package com.amigoscode.apiMongoDB.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

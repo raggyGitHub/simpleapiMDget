@@ -1,4 +1,4 @@
-package com.amigoscode.apiMongoDB;
+package com.amigoscode.apiMongoDB.model;
 
 public enum Gender {
     MALE,

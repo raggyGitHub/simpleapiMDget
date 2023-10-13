@@ -1,5 +1,6 @@
-package com.amigoscode.apiMongoDB;
+package com.amigoscode.apiMongoDB.repository;
 
+import com.amigoscode.apiMongoDB.model.Student;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.Optional;

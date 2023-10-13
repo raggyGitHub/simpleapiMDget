@@ -1,4 +1,4 @@
-package com.amigoscode.apiMongoDB;
+package com.amigoscode.apiMongoDB.model;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;
